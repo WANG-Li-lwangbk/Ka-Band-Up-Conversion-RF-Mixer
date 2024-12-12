@@ -1,6 +1,7 @@
 **A Ka-band upconversion RF mixer operating from 24 to 30 GHz in 40-nm CMOS process**
 
-The RF mixer is integrated in our 4-element Ka-band phased-array transmitter, published in ESSERC 2024. Link: https://ieeexplore.ieee.org/abstract/document/10719557
+The RF mixer is integrated in our 4-element Ka-band phased-array transmitter, published in ESSERC 2024. 
+Link: https://ieeexplore.ieee.org/abstract/document/10719557
 
 **Main Feature:**
 - High gain (14 dB)
