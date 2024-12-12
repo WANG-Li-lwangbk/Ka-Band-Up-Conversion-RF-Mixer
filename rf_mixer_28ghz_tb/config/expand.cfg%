@@ -1,0 +1,26 @@
+//Revision 24
+//NOTE
+// Default template for spectre
+// Note:
+//      Please remember to replace Top Cell Library, Cell, and View
+//      fields with the actual names used by your design.
+//END_NOTE
+
+config rf_mixer_28ghz_tb;
+design rf_mixer_openic.rf_mixer_28ghz_tb:schematic;
+liblist myLib;
+
+viewlist spectre, cmos_sch, \cmos.sch , schematic, veriloga, ahdl, pspice;
+stoplist spectre;
+
+
+cell A_MMWAVE_TX_LI.A2_RFMIXER_LI_LAYOUT binding :schematic;
+cell A_MMWAVE_TX_LI.xfmr_v4_tb binding :schematic;
+cell A_MMWAVE_TX_LI.xfmr_v5_tb binding :schematic_nport;
+cell A_MMWAVE_TX_LI.A_RFMIXER_LI_LAYOUT binding :calibre;
+cell A_MMWAVE_TX_LI.xfmr_v6_tb binding :schematic_nport;
+cell A_MMWAVE_TX_LI.xfmr_v6_tb2 binding :schematic_nport;
+cell A_MMWAVE_TX_LI.xfmr_v7_tb binding :schematic_nport;
+
+
+endconfig

@@ -1,0 +1,3 @@
+projectDir = '"./simulation"
+designInfo = '("rf_mixer_openic" "rf_mixer_28ghz_tb" "config" "spectre")
+descriptionText = "None"

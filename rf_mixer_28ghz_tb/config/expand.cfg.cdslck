@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      lwangbk
+HostName                       eex111.ee.ust.hk
+ProcessIdentifier              4550
+ProcessCreationTime_UTC        1733910319
+ProcessCreationTime_Readable   Wed Dec 11 17:45:19 2024 HKT
+AppIdentifier                  /usr/eelocal/cadence/ic618-350/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       Not specified
+FilePathUsedToEditLock         /home/lwangbk/tsmc_40nm_top/mmwave_wpt/rf_mixer_openic/rf_mixer_28ghz_tb/config/expand.cfg
+TimeEditLocked                 Wed Dec 11 18:14:39 2024 HKT
