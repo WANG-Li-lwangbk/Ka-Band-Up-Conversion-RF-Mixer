@@ -12,7 +12,7 @@ Link: https://ieeexplore.ieee.org/abstract/document/10719557
 **Main Feature:**
 - High gain (14 dB)
 - Large output swing (900mV amplitude)
-- Symmetric layout for the Gilbert cell.
+- Symmetric layout for the Gilbert cell
 
 **Techniques:**
 - Current-source-less topology for large output swing
